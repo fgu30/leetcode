@@ -3,7 +3,7 @@ package Sorting;
 import java.util.Arrays;
 
 /**
- * MergeSort
+ * MergeSort time comlexity is O(n*log(n))
  */
 public class MergeSort {
 
